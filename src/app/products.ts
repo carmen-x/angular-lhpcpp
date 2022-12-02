@@ -14,7 +14,7 @@ export const products = [
   },
   {
     id: 2,
-    name: 'Wolpe',
+    name: 'Vulpe',
     price: 699,
     description: 'Keeps the neighbors away and howls at the midnight moon.'
   },
